@@ -1,0 +1,30 @@
+/* styles */
+#mainpage-head {
+    color:thistle;
+    background-color: turquoise;
+    font-style: italic;
+}
+
+.headermain {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+.buttonmain {
+    background-color: yellow;
+    color: rgb(255, 255, 255);
+}
+
+.images {
+    width: 300px;
+    height: auto;
+    align: center;
+}
+
+.para-main {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.para-headings {
+    font-family: Arial, Helvetica, sans-serif;
+}
